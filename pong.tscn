@@ -5,7 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://c4ljli8y8lvbk" path="res://pong_assets/right_pallete.png" id="3_ludyb"]
 [ext_resource type="Texture2D" uid="uid://djly3mnpatprq" path="res://pong_assets/ball.png" id="4_trlu6"]
 
-[node name="Pong" type="Node3D" unique_id=1845487407]
+[node name="Pong" type="Node2D" unique_id=1466903611]
 
 [node name="Separator" type="Sprite2D" parent="." unique_id=371249871]
 position = Vector2(320, 200)
